@@ -1,0 +1,14 @@
+body{
+    background-color: #fff7d4;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+header{
+    background-color: #22B573;
+    font-family: Futura ;
+    color: white;
+}
+nav{
+    display: flex;
+}
